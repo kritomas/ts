@@ -1,9 +1,10 @@
 import './App.css'
+import Shelo from './shelo.tsx'
 
 function App() {
   return (
     <>
-      Sup
+      <Shelo></Shelo>
     </>
   )
 }
